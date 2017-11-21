@@ -1,0 +1,23 @@
+{
+  "name": "tp1",
+  "version": "1.0.0",
+  "description": "first TP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IkrameM/tp1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IkrameM/tp1/issues"
+  },
+  "homepage": "https://github.com/IkrameM/tp1#readme",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "mysqli": "^2.0.1"
+  }
+}
